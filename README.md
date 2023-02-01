@@ -40,6 +40,6 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 - **[Estimating the Probability of Confirmed COVID-19 Cases Taking into the Intensive Care Unit (ICU) ✅](<https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU>)**
 - **[OP1 - Prediction of the Different Progressive Levels of Alzheimer's Disease ✅](<https://github.com/edaaydinea/OP1-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease>)**
 - **[OP2 - Prediction of the Different Progressive Levels of Alzheimer's Disease with MRI data ✅](<https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data>)**
-- **[Low Grade Glioma Segmentation 🚧](<https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation>)**
+- **[Low Grade Glioma Segmentation ✅](<https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation>)**
 - **[Multiple Sclerosis Lesion Segmentation from Brain Magnetic Resonance Images via Fully Convolutional Neural Network 🚧](<https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional>)**
 - **[Magnetic Resonance Imaging Comparisons of Demented and Non-demented Adults 🚧](<https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults>)**
