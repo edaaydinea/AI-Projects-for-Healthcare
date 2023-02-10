@@ -30,7 +30,7 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 - **[DNA Classification Project ✅](https://github.com/edaaydinea/AI-Projects-for-Healthcare/blob/master/DNA%20Classification%20Project/DNA%20Classification.ipynb):** The aim of this project is to find out whether the DNA sequence is the promoter.
 - **[Heart Disease Classification Project ✅](https://github.com/edaaydinea/AI-Projects-for-Healthcare/blob/master/Heart%20Disease%20Classification%20Project/Heart%20Disease%20Classification.ipynb):** The aim of this project is to predict  the condition of her/his disease throughout a classification algorithm based on a neural network. The dataset is taken from [UCI Machine learning Respiratory](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
 - **[Diagnosing Coronary Artery Disease Project ✅](https://github.com/edaaydinea/AI-Projects-for-Healthcare/blob/master/Diagnosing%20Coronary%20Artery%20Disease%20Project/Diagnosing%20Coronary%20Artery%20Disease.ipynb):** The aim of this project is to predict the condition of her/his disease throughout a classification algorithm based on a neural network.
-- **[Breast Cancer Detection ✅](https://github.com/edaaydinea/AI-Projects-for-Healthcare/blob/master/Breast%20Cancer%20Detection/Breast_Cancer_Detection.ipynb):** The aim of this project is to predict the breast cancer from a digitized image of a fine needle aspirate (FNA) of a breast mass.
+- **[Breast Cancer Detection ✅](https://github.com/edaaydinea/AI-Projects-for-Healthcare/blob/master/Breast%20Cancer%20Detection/Breast_Cancer_Detection.ipynb):** The aim of this project is to predict the breast cancer from a digitized image of a fine needle aspirate (FNA) of a breast muscles
 
 ## Research Projects
 
