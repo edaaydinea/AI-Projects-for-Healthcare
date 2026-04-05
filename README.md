@@ -71,12 +71,6 @@ The following projects are maintained in **separate repositories** and represent
 - **[Low Grade Glioma Segmentation ✅](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation)**  
   Segmentation of low-grade gliomas from brain MRI scans using deep learning.
 
-- **[Multiple Sclerosis Lesion Segmentation 🚧](https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional)**  
-  Lesion segmentation in multiple sclerosis from brain MRI using fully convolutional networks.
-
-- **[MRI Comparison of Demented and Non-demented Adults 🚧](https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults)**  
-  Comparative analysis of MRI scans between demented and non-demented subjects.
-
 - **[Optimization of Human Sensory Neuron Differentiation for Pain Research ✅](https://github.com/edaaydinea/LifeArc_BiologyResearch)**  
   Research project conducted at LifeArc focusing on in vitro human sensory neuron differentiation for analgesic drug testing.
 
